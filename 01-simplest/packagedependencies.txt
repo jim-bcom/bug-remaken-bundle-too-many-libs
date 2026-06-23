@@ -1,0 +1,1 @@
+opentelemetry-cpp|1.22.0|opentelemetry-cpp|conan|conan-center|shared
